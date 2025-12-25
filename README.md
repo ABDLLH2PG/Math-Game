@@ -1,20 +1,29 @@
-# 🧮 Math Game
+# 🔢🧠 Math Game Challenge
 
-## 📖 About the Project
-A simple command-line math game where the player answers randomly generated math questions.  
-The program tests the player’s speed and accuracy in basic arithmetic operations, including addition, subtraction, multiplication, and division.  
-This project is part of the  [AbouHadhood Platform](https://programmingadvices.com/) training track with Dr. Mohamed Abou Hadhoud, and is designed to practice:
-- Conditional statements
-- Loops
-- Random number generation
-- Functions
+Welcome to the **Math Game Challenge**! An interactive console application designed to test and improve your arithmetic skills. This project is built entirely in C++ to practice logical system design and data management.
+
+## 🌟 Game Features
+* **Operation Types:** Choose your challenge: Addition ➕, Subtraction ➖, Multiplication ✖️, Division ➗, or a Mix 🔀.
+* **Difficulty Levels:**
+    * **Easy:** Simple numbers for warming up.
+    * **Med:** Standard challenge.
+    * **Hard:** Larger numbers for pros.
+    * **Mix:** Random difficulty for every question.
+* **Smart Generator:** Questions are generated dynamically based on your chosen settings.
+* **Score Report:** At the end of the quiz, you get a full report with your score and a Pass/Fail status.
+
+## 🛠️ Technologies Used
+* **Language:** C++
+* **Concepts Applied:**
+    * Advanced usage of Functions.
+    * `Structs` and `Enums` for data organization.
+    * Random logic generation.
+    * Clean Code principles.
+
+## 🚀 How to Run
+1. Download the project files.
+2. Open the solution file in Visual Studio.
+3. Run the code and try to get a full score! ✅
 
 ---
-
-## 🛠 Built With
-- **C++**
-- `<iostream>`
-- `<cstdlib>` (for random number generation)
-- `<ctime>` (for seeding the random function)
-
----
+*A practical project from the Programming Roadmap (Course 5).* 👨‍💻
